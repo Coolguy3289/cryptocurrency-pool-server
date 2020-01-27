@@ -14,7 +14,7 @@ If you use this software in production then *DO NOT* pull new code straight into
 Usage of this software requires abilities with sysadmin, database admin, coin daemons, and sometimes a bit of programming. Running a production pool can literally be more work than a full-time job. 
 
 **Coin switching & auto-exchanging for payouts in BTC/LTC** to miners is a feature that very likely will not be included in this project. 
-
+ 
 #### Table of Contents
 * [Features](#features)
   * [Attack Mitigation](#attack-mitigation)
